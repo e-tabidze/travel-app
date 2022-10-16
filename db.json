@@ -1,0 +1,104 @@
+{
+  "cities": [
+    {
+      "city": "Paris",
+      "latitude": "48.856614",
+      "longitude": "2.352222"
+    },
+    {
+      "city": "Marseille",
+      "latitude": "48.856614",
+      "longitude": "2.352222"
+    },
+    {
+      "city": "Lyon",
+      "latitude": "45.764043",
+      "longitude": "4.835659"
+    },
+    {
+      "city": "Toulouse",
+      "latitude": "43.604652",
+      "longitude": "1.444209"
+    },
+    {
+      "city": "Nice",
+      "latitude": "43.710173",
+      "longitude": "7.261953"
+    },
+    {
+      "city": "Nantes",
+      "latitude": "47.218371",
+      "longitude": "-1.553621"
+    },
+    {
+      "city": "Strasbourg",
+      "latitude": "48.573405",
+      "longitude": "7.752111"
+    },
+    {
+      "city": "Montpellier",
+      "latitude": "43.610769",
+      "longitude": "3.876716"
+    },
+    {
+      "city": "Bordeaux",
+      "latitude": "44.837789",
+      "longitude": "-0.579180"
+    },
+    {
+      "city": "Lille",
+      "latitude": "50.629250",
+      "longitude": "3.057256"
+    },
+    {
+      "city": "Rennes",
+      "latitude": "48.117266",
+      "longitude": "-1.677793"
+    },
+    {
+      "city": "Reims",
+      "latitude": "9.258329",
+      "longitude": "4.031696"
+    },
+    {
+      "city": "Le Havre",
+      "latitude": "49.494370",
+      "longitude": "0.107929"
+    },
+    {
+      "city": "Saint-Étienne",
+      "latitude": "45.439695",
+      "longitude": "4.387178"
+    },
+    {
+      "city": "Toulon",
+      "latitude": " 43.124228",
+      "longitude": " 5.928000"
+    },
+    {
+      "city": "Angers",
+      "latitude": "47.478419",
+      "longitude": "-0.563166"
+    },
+    {
+      "city": "Grenoble",
+      "latitude": "45.188529",
+      "longitude": "5.724524"
+    },
+    {
+      "city": "Dijon",
+      "latitude": "47.322047",
+      "longitude": "5.041480"
+    },
+    {
+      "city": "Nîmes",
+      "latitude": "43.836699",
+      "longitude": "4.360054"
+    },
+    {
+      "city": "Aix-en-Provence",
+      "latitude": "43.529742",
+      "longitude": "5.447427"
+    }
+  ]
+}
